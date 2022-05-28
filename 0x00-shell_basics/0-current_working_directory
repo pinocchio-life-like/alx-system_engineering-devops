@@ -1,2 +1,2 @@
-echo -e "/bin/bash
+echo -e "#!/bin/bash
 dirname realpath "$0"
