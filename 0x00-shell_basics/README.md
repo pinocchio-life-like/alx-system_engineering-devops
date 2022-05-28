@@ -1,1 +1,1 @@
-The readme file
+This Directory contains shell permission files
