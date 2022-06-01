@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo $(($POWER/$DIVIDE))
-=======
-echo $((POWER/DIVIDE))
->>>>>>> 47546a7dab541ef931d73a5620c3d2ca00864f78
